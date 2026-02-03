@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Vector Database (Too large for Git)
+chroma/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Environment Variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
